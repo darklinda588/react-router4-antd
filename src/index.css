@@ -1,0 +1,11 @@
+#root{
+  height: 100%;
+  background: url(./assets/3-160S1105647.jpg)
+}
+.App {
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
